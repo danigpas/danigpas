@@ -1,19 +1,19 @@
 ## Hi there 👋
 
-<!--
-**danigpas/danigpas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Develop API`s with FastAPI
+- 🌱 I’m currently learning FastAPI and Reflex
+- 👯 I’m looking to collaborate on Backend projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 About Me
+- I'm a Backend Developer From Málaga, Andalucía , España 🇪🇸
+- Visit my [portfolio](https://danigpascual.dev)
+ 
+## GitHub Stats
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danigpas&theme=highcontrast)](https://git.io/streak-stats)
 
 ![danigpas's Stats](https://github-readme-stats.vercel.app/api?username=danigpas&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
