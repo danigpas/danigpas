@@ -1,4 +1,5 @@
-![Banner]([assets/banner.png](https://github.com/danigpas/danigpas/blob/main/assets/banner.png?raw=true))
+![Banner](https://raw.githubusercontent.com/danigpas/danigpas/main/assets/banner.png)
+
 
 # 👋 Hi, I'm Daniel G. Pascual
 Backend Developer | Python | FastAPI
