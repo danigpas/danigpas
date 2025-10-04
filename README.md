@@ -1,3 +1,8 @@
+![Banner](assets/banner.png)
+
+# 👋 Hi, I'm Daniel G. Pascual
+Backend Developer | Python | FastAPI
+
 ## 🚀 About Me
 
 Backend developer from Málaga, Andalucía (ES) 🇪🇸.
@@ -55,6 +60,9 @@ If your stack is modern (FastAPI/Django, Docker, CI/CD), ping me.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danigpas&theme=highcontrast)](https://git.io/streak-stats)
 
 ![danigpas's Stats](https://github-readme-stats.vercel.app/api?username=danigpas&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+
+# 👋 Hola, soy Daniel G. Pascual
+Backend Developer | Python | FastAPI
 
 ## 🇪🇸 Español 🚀 Sobre mí
 
