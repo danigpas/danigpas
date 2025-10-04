@@ -12,7 +12,7 @@ Open to roles away from WordPress — I’m moving towards modern backend and cl
 
 Portfolio OS – a portfolio that mimics an Ubuntu-like OS with an API client app (Postman-style).
 🔗 Live: https://danigpascual.dev
-🔧 Repo: (renamed recently; link will be updated)
+🔧 Repo: [(Portfolio - OS )](https://github.com/danigpas/portfolio-os)
 
 El Nieto de Pascual – personal blog (in progress).
 
@@ -54,7 +54,7 @@ Busco proyectos fuera de WordPress — quiero tecnologías modernas y nuevos ret
 
 Portfolio OS – portfolio que simula un SO tipo Ubuntu con una app de APIs.
 🔗 Online: https://danigpascual.dev
-🔧 Repo: (renombrado; actualizar enlace)
+🔧 Repo: [(Portfolio - OS )](https://github.com/danigpas/portfolio-os)
 
 El Nieto de Pascual – blog personal (en progreso).
 
