@@ -8,7 +8,23 @@ Currently focusing on modern stacks (FastAPI, Reflex, Docker, CI/CD).
 
 Open to roles away from WordPress — I’m moving towards modern backend and cloud-native tooling.
 
-## 🧠 Tech Stack 📈 Stats 🏗️ Featured Projects
+## 🧠 Tech Stack
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/doc/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](https://docs.djangoproject.com/)
+[![Reflex](https://img.shields.io/badge/Reflex-3b82f6?logo=react&logoColor=white)](https://reflex.dev/docs/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/docs.php)
+[![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/manual/)
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)](https://airflow.apache.org/docs/)
+[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)](https://pve.proxmox.com/wiki/Main_Page)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/)
+[![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
+
+## 🏗️ Featured Projects
 
 Portfolio OS – a portfolio that mimics an Ubuntu-like OS with an API client app (Postman-style).
 🔗 Live: https://danigpascual.dev
@@ -50,7 +66,23 @@ Ahora enfocado en stacks modernos (FastAPI, Reflex, Docker, CI/CD).
 
 Busco proyectos fuera de WordPress — quiero tecnologías modernas y nuevos retos.
 
-## 🧠 Tech Stack 📈 Estadísticas 🏗️ Proyectos Destacados
+## 🧠 Tech Stack
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/doc/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](https://docs.djangoproject.com/)
+[![Reflex](https://img.shields.io/badge/Reflex-3b82f6?logo=react&logoColor=white)](https://reflex.dev/docs/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/docs.php)
+[![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/manual/)
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)](https://airflow.apache.org/docs/)
+[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)](https://pve.proxmox.com/wiki/Main_Page)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/)
+[![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
+
+## 🏗️ Proyectos Destacados
 
 Portfolio OS – portfolio que simula un SO tipo Ubuntu con una app de APIs.
 🔗 Online: https://danigpascual.dev
