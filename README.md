@@ -1,8 +1,8 @@
-![Banner](https://raw.githubusercontent.com/danigpas/danigpas/main/assets/banner.png)
-
-
 # 👋 Hi, I'm Daniel G. Pascual
 Backend Developer | Python | FastAPI
+
+![Banner](https://raw.githubusercontent.com/danigpas/danigpas/main/assets/banner.png)
+
 
 ## 🚀 About Me
 
