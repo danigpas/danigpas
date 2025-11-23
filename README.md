@@ -38,7 +38,9 @@ Portfolio OS – a portfolio that mimics an Ubuntu-like OS with an API client ap
 
 El Nieto de Pascual – personal blog (in progress).
 
-Naruto API – public API idea to practice design, docs, testing and deployment (coming soon).
+KonohAPI – public API to practice design, docs, testing and deployment with the naruto ninja world enviorenment.
+🔧 Repo: [(KonohAPI)](https://github.com/danigpas/KonohAPI)
+
 
 🎯 Learning Path (Now)
 
@@ -58,7 +60,7 @@ If your stack is modern (FastAPI/Django, Docker, CI/CD), ping me.
 ## GitHub Stats
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danigpas&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=danigpas&theme=highcontrast&locale=es)](https://git.io/streak-stats)
 
 ![danigpas's Stats](https://github-readme-stats.vercel.app/api?username=danigpas&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
@@ -99,7 +101,8 @@ Portfolio OS – portfolio que simula un SO tipo Ubuntu con una app de APIs.
 
 El Nieto de Pascual – blog personal (en progreso).
 
-Naruto API – API pública para practicar diseño, docs, testing y despliegue (próximamente).
+KonohAPI – API pública para practicar diseño, docs, testing y despliegue basada en el mundo ninja de la serie Naruto (en progreso).
+🔧 Repo: [(KonohAPI)](https://github.com/danigpas/KonohAPI)
 
 🎯 Ruta de Aprendizaje (Ahora)
 
